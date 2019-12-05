@@ -1,38 +1,33 @@
 # Tinkuy
 
-_La idea de este proyecto es poder administrar reclamos de productos
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+La idea de este proyecto es poder administrar reclamos de productos
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-- PHP >=5.6
+- PHP 5.6 o superior 
+- Composer
+- Mysql
 
-- 
 ```
 Da un ejemplo
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
+1 - Descargar el repositorio
 ```
-Da un ejemplo
+git clone https://github.com/dnlbertoni/tinkuy.git
 ```
 
-_Y repite_
+2 - actualizar composer
+```
+composer update
+```
 
-```
-hasta finalizar
-```
+
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
